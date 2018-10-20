@@ -1,2 +1,4 @@
-# Cristurismo_c
-Final Assignment for the Programming subject
+# Proyecto Final de Programación
+# Cristurismo
+
+## Autor: Javier Blanco Antequera
